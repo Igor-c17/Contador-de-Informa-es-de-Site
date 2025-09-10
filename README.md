@@ -36,4 +36,4 @@ O contador funciona de forma intuitiva, podendo ser facilmente integrado em site
 
 ---
 
-Segue o link para visualização do projeto: 
+Segue o link para visualização do projeto: https://contador-de-informa-es-de-site.vercel.app/
